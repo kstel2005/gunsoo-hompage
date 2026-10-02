@@ -4,7 +4,7 @@
 @media(max-width:800px){.esg-head{grid-template-columns:1fr;gap:15px}.esg-grid{grid-template-columns:1fr}.esg-badges{grid-template-columns:1fr 1fr}}
 .company-info{
   display:grid;
-  grid-template-columns:repeat(4,1fr);
+  grid-template-columns:0.8fr 1fr 2.2fr 3fr;
   gap:1px;
   margin-top:55px;
   background:#e5e1e8;
